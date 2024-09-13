@@ -9,4 +9,4 @@ services:
     network_mode: host
     environment:
       - NODE_EN=preprod
-      - PORT=5000
+      - PORT=5000
